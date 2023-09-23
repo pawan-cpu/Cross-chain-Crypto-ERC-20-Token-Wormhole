@@ -1,1 +1,1 @@
-# CrossChain-ERC-20-token
+# CrossChain-ERC-20-token on Wormhole
